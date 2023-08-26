@@ -1,0 +1,8 @@
+"1) Describa qué tipo de información se busca mediante la aplicación de cuestionarios.
+2) Describa bajo qué circunstancia considera apropiado utilizar cuestionarios.
+3) Describa los dos tipos de cuestionarios."
+
+1. De actitud, creencias, comportamiento y caracteristicas.
+2. Recolectar hechos de un gran numero de personas, detectar un sentimiento generalizado, detectar problemas entre usuarios y cuantificar respuestas.
+3. De preguntas abiertas: Son las que dejan abiertas todas las posibles opciones de respuesta.
+   De preguntas cerradas: Limitan o cierran las opciones de respuestas disponibles. 
