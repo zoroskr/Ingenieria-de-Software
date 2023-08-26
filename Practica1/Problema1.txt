@@ -1,0 +1,7 @@
+1. ¿Cual es el presupuesto para el sistema?
+2. ¿En que localidades se busca implementar la misma?
+3. ¿Para que dispositivos y/o sistemas operativos debe ser compatible?
+4. ¿Cuales seran los metodos de pagos?
+5. Si es por entidades bancarias, ¿Cuales seran las disponibles? 
+6. ¿Cuales seran las restricciones para que un conductor forme parte del sistema?
+7. ¿Con que seguros contaran los viajes?
