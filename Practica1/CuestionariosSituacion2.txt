@@ -1,0 +1,37 @@
+"Situación 2
+El siguiente es un cuestionario diseñado por un empleado de una empresa textil que se especializa en fabricar
+medias para hombres. Este empleado lo escribió en calidad de gerente de la oficina que tiene a cargo la propuesta de
+compra / implementación de un nuevo sistema de cómputos.
+¡Hola a todos los empleados!
+Según los rumores, estamos tras una nueva computadora. Aquí hay algunas preguntas para
+que reflexionen.
+a. ¿Cuánto tiempo ha usado la computadora vieja?_______________________ 
+b. ¿Con que frecuencia se descompone?_______________________________
+c. ¿Quién la repara?________________________________________________
+d. ¿Cuándo fue la ultima vez que usted sugirió una mejora al sistema de cómputos y esta
+se puso en práctica? ¿De qué se trató?________________
+e. ¿Cuándo fue la última vez que usted sugirió una mejora al sistema de cómputos y
+nadie la usó? ¿De que se trató?___________________________
+f. ¿Usted utiliza una pantalla o una impresora, o ambas?___________________
+g. ¿Qué tan rápido escribe en la computadora?___________________________
+h. ¿Cuántas personas necesitan acceder a la base de datos regularmente en su sucursal?
+¿Hay alguien que actualmente no utilice la computadora y que le gustaría
+hacerlo?_________________________________________________
+a. Reformule o elimine las preguntas que considere inapropiadas.
+b. Realice una crítica sobre el diseño y el estilo en cuanto a espacio en blanco, espacio para las respuestas,
+facilidad para responder, etc.
+c. Escriba el cuestionario nuevamente, teniendo en cuenta lo respondido en los puntos a y b.
+UNLP –"
+
+a)"¿Cuánto tiempo ha usado la antigua computadora? POCO TIEMPO - MUCHCO TIEMPO" 
+Pondria opciones multiples, asi es más facil cuantificar las respuestas, aunque siempre habra ambiguedad. Y cambiaria "vieja" por un lenguaje más apropiado. 
+B) "¿Con que frecuencia se descompone? SEGUIDO - ALGUNAS VECES - NUNCA"
+D) "¿Cuándo fue la ultima vez que usted sugirió una mejora al sistema de cómputos? MUCHO TIEMPO - POCO TIEMPO
+¿Se puso en practica? SI - NO
+¿De qué se trató? Explique brevemente"
+F) "Usted utiliza: PANTALLA - IMPRESORA - AMBAS"
+G) "La velocidad en la que escribe en la computadora es: LENTA - PROMEDIO - RAPIDA" 
+H) "¿Cuántas personas necesitan acceder a la base de datos regularmente en su sucursal? POCAS - MUCHAS"
+
+B) Creo que los espacios no se correlacionan con las preguntas, debido a que hay preguntas que son para explayarse y estas tienen pocas lineas. Ademas se usa mucho
+las preguntas abiertas las cuales tranquilamente podrian ser cerradas para ahorrar tiempo y cuantificar mejor. 
