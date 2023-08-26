@@ -1,3 +1,8 @@
+"Preparar una entrevista para obtener los requerimientos del siguiente problema:
+Se desea desarrollar un sistema que permita compartir un vehículo para un viaje. La idea es que cuando una persona
+tiene que realizar un viaje lo publique en la aplicación. Luego el resto de los usuarios se postulan para acompañarla y
+el chofer podrá seleccionar quienes viajan. El objetivo es abaratar costos y evitar congestiones en el tránsito."
+
 1. ¿Cual es el presupuesto para el sistema?
 2. ¿En que localidades se busca implementar la misma?
 3. ¿Para que dispositivos y/o sistemas operativos debe ser compatible?
